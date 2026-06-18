@@ -10,10 +10,6 @@ W tym folderze gromadzę certyfikaty oraz potwierdzenia kwalifikacji, które obr
 * **Data uzyskania:** 27 maja 2026 r.
 * Ukończyłem z sukcesem dwuetapowy proces ewaluacji, zarządzając kontem o wartości 5 000 USD
 * Certyfikat potwierdza moją ścisłą dyscyplinę oraz umiejętność handlu z zastosowaniem rygorystycznych praktyk zarządzania ryzykiem
-* Wykonałem łącznie 35 transakcji
-* Utrzymałem maksymalne obsunięcie kapitału (Maximal Drawdown) na poziomie zaledwie 197,13 USD
-* Moja średnia zyskowna transakcja wyniosła 29,94 USD, przy średniej wielkości pozycji rzędu 0,01 lota
-* Największa zyskowna transakcja wyniosła 85,18 USD, podczas gdy największa transakcja stratna zamknęła się na poziomie -42,75 USD
 
 ---
 
