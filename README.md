@@ -1,3 +1,4 @@
+
 # Certyfikaty i Osiągnięcia Edukacyjno-Rynkowe
 
 W tym folderze gromadzę certyfikaty oraz potwierdzenia kwalifikacji, które obrazują moją ścieżkę rozwoju w obszarach handlu ilościowego, analizy danych oraz wdrażania sztucznej inteligencji.
@@ -5,6 +6,8 @@ W tym folderze gromadzę certyfikaty oraz potwierdzenia kwalifikacji, które obr
 ---
 
 ## 🧠 Sztuczna Inteligencja i Automatyzacja
+
+
 
 ### 1. Wykorzystanie AI w rozwoju firmy – Google & SGH
 * **Data uzyskania:** 17 czerwca 2026 r.
@@ -14,6 +17,7 @@ W tym folderze gromadzę certyfikaty oraz potwierdzenia kwalifikacji, które obr
 * **Krótki opis:** Intensywny program uczący praktycznego wykorzystywania modeli sztucznej inteligencji (m.in. LLM) do rozwiązywania problemów biznesowych, automatyzacji zadań operacyjnych i zwiększania wydajności pracy.
 * **Kluczowe umiejętności:** Inżynieria promptów (Prompt Engineering), automatyzacja procesów biznesowych (Workflow Automation), optymalizacja zadań za pomocą AI, analityka wspomagana maszynowo.
 
+<img width="1123" height="789" alt="image" src="https://github.com/user-attachments/assets/46e31cd7-9c9c-46b5-b18c-f27e05d13b16" />
 ---
 
 ## 📊 Inżynieria i Analiza Danych
@@ -24,6 +28,7 @@ W tym folderze gromadzę certyfikaty oraz potwierdzenia kwalifikacji, które obr
 * **Krótki opis:** Kurs budujący silne fundamenty z zakresu analityki. Przeprowadza przez pełen cykl życia danych – od metod ich pozyskiwania i czyszczenia, po wyciąganie wniosków i podejmowanie decyzji w pełni opartych na twardych metrykach (Data-Driven Decision Making).
 * **Kluczowe umiejętności:** Analiza danych (Data Analysis), myślenie analityczne, ustrukturyzowane przetwarzanie informacji, przygotowywanie danych do modelowania (Data Cleaning).
 
+<img width="1032" height="790" alt="image" src="https://github.com/user-attachments/assets/e4eeeb00-01a7-4005-9484-5ce0e9729aba" />
 ---
 
 ## 📈 Osiągnięcia na Rynkach Finansowych
@@ -34,6 +39,8 @@ W tym folderze gromadzę certyfikaty oraz potwierdzenia kwalifikacji, które obr
 * Certyfikat potwierdza moją ścisłą dyscyplinę oraz umiejętność handlu z zastosowaniem rygorystycznych praktyk zarządzania ryzykiem
 * **Krótki opis:** Praktyczny egzamin rynkowy sprawdzający odporność psychiczną, konsekwencję oraz skuteczność mojego systemu transakcyjnego pod ścisłą presją ochrony kapitału.
 * **Kluczowe umiejętności:** Rygorystyczne zarządzanie ryzykiem (Risk Management), kontrola maksymalnego obsunięcia kapitału (Max Drawdown), optymalizacja wielkości pozycji (Position Sizing), systemowa egzekucja strategii.
+
+  <img width="1196" height="839" alt="image" src="https://github.com/user-attachments/assets/16fc25fc-451b-400e-993f-22a588dc7d7b" />
 
 ---
 
